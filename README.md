@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peach3es
+- 👋 Hi, I’m Peizhe Tian
 - 👀 I’m interested in game development & web development
 - 🌱 I’m currently learning C++, VHDL, python & HTML.
 - 🚧 Projects I'm curreently working on: Discord bot

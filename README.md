@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Peizhe Tian
-- 👀 I’m interested in game development & web development
+- 👋 Hi, I’m Peizhe Tian, I am a student at Concordia studying Computer Engineering.
+- 👀 I’m interested in game development & web development.
 - 🌱 I’m currently learning C++, VHDL, python & HTML.
 - 🚧 Projects I'm curreently working on: Discord bot
 

@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Peizhe Tian, I am a student at Concordia studying Computer Engineering.
-- 👀 I’m interested in game development & web development.
-- 🌱 I’m currently learning C++, VHDL, python & HTML.
-- 🚧 Projects I'm currently working on: Discord bot
+<h1 align="center">
+👋 Hi, my name is Peizhe Tian
+</h1>
+
+Here is a bit more about myself:
+----
+
+- 💼 I am a student at Concordia studying Computer Engineering.
+- 👀 On my free time, I like to learn about game development & front-end web development.
+- 🌱 I’m currently learning C++, Python, HTML & CSS.
+- 🚧 Projects I'm currently working on: Discord bot & personal portfolio website
 
 <!---
 peach3es/peach3es is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

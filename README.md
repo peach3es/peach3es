@@ -7,7 +7,7 @@ Here is a bit more about myself:
 
 - 👨‍🎓I am a student at Concordia, currently studying Computer Engineering.
 - ⌛On my free time, I like to learn about game development & front-end web development.
-- 📚I’m currently learning C++, Python, HTML & CSS.
+- 📚I’m currently learning C++, Python, HTML & CSS, Java.
 - ⚒Projects I'm currently working on: Discord bot, personal portfolio website & freeCodeCamp certifications.
 - 📈On my journey in becoming a full-stack developper!
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, my name is Peizhe Tian
+Welcome to my page, my name is Peizhe Tian
 </h1>
 
 Here is a bit more about myself:

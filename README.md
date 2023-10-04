@@ -6,8 +6,8 @@ Welcome to my page, my name is Peizhe Tian
 
 - 👨‍🎓I am a student at Concordia, currently studying Computer Engineering.
 - ⌛On my free time, I like to learn about game development & web development.
-- 📚I’m currently learning Typescript & React Native.
-- ⚒Projects I'm currently working on: Discord bot [onhold], Simple Application website, portfolio website [soon].
+- 📚I’m currently learning Typescript & React.
+- ⚒Projects I'm currently working on: Simple Application website, ConcordiaGameDev Website, portfolio website [soon].
 
 ---
 
